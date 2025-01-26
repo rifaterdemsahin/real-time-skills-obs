@@ -1,0 +1,19 @@
+section:
+  introduction:
+    timecode: "00:16"
+    presenter: "Rifat Erdem Sahin"
+    role: "Consultant"
+    company: "DevOps Engineering"
+    imageurl: "XXX"
+    agenda:
+      - "Introduction to the Rifat"
+      - "Overview of the role"
+      - "Technical questions"
+      - "Q&A session"
+  listener:
+    - key: "microservices"
+      value_answer_line1: "Microservices are an architectural style that structures an application as a collection of loosely coupled services."
+      value_answer_line2: "Implemented Repos : XXX"
+    - key: "DevOps"
+      value_answer_line1: "DevOps is a practice to decrease the release time in ALM"
+      value_answer_line2: "Implemented Repos : XXX"
