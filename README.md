@@ -5,19 +5,13 @@
 Enable yourself to communicate effectively in Teams meetings by overlaying skills in text to express what you can write and need the speed to display fast.
 
 ## 🎯 Key Results  
-1. 📝 **Text Overlay**: Use English text to convey your thoughts when speaking is difficult.  
-2. 🎨 **Lower Third Effects**: Professionally display text in OBS using a Notepad source.  
+1. 📝 **Text Overlay**: Use skills text to convey your thoughts when expressing the skill is needed  
+2. 🎨 **Lower Third Effects**: Professionally display text in OBS.
 3. 🤖 **AI Integration** *(Nice to Have)*: Use AI tools to improve fluency and grammar for polished text overlays.  
-
 ---
 
-## 📂 Repository  
-[🔗 real-time-translate-obs](https://github.com/rifaterdemsahin/real-time-translate-obs)  
-
----
-
-## 🛠️ Step-by-Step Guide  
-
+# 🛠️ Step-by-Step Guide  
+## Technical Steps
 ### 1️⃣ Create Your Text in Notepad  
 1. Open **Notepad**.  
 2. Type your **lower third text** (e.g., "I’d like to add this point.").  
