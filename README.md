@@ -1,8 +1,8 @@
-# 🎙️ Real-Time Translate OBS README  
+# 🎙️ Real-Time Skills OBS README  
 
 ## 🚀 Objective  
 **Express Yourself in a Teams Meeting**  
-Enable yourself to communicate effectively in Teams meetings by overlaying English text to express what you can write but may have trouble speaking.  
+Enable yourself to communicate effectively in Teams meetings by overlaying skills in text to express what you can write and need the speed to display fast.
 
 ## 🎯 Key Results  
 1. 📝 **Text Overlay**: Use English text to convey your thoughts when speaking is difficult.  
